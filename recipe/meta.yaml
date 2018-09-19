@@ -1,10 +1,10 @@
 package:
   name: concurrentqueue
-  version: 20171101
+  version: 20180919
 
 source:
   git_url: https://github.com/cameron314/concurrentqueue.git
-  git_rev: 7b69a8fd4d7dfbc169bd79aa724a3e8da19b9851
+  git_rev: 8f65a8734d77c3cc00d74c0532efca872931d3ce
 
 build:
   # If the installation is complex, or different between Unix and Windows, use
